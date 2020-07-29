@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import scipy
 from PIL import Image
 from scipy import ndimage
-from dnn_app_utils_v3 import *
+from utils import *
 
 '''
 %matplotlib inline
